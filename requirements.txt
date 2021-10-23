@@ -1,0 +1,7 @@
+python 3.7
+pandas 
+Matplotlib
+pickle
+keras
+tensorflow
+knowledge of - Deep Learning
