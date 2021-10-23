@@ -5,6 +5,9 @@ I have provided analytics_competition.ipynb file , this file contains all the tr
 
 I have submitted .h5 and pickle image encoding file in the drive because due to big size github is not accepting(more than 25 MB).
 
+Drive Link -
+https://drive.google.com/drive/folders/1f8ihG7X5qhLBt9aVvnQWMJ7tBT7uDCTY?usp=sharing
+
 Work Flow -
 
 1. Image Loading
